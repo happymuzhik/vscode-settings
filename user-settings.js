@@ -28,4 +28,9 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "vscode-icons",
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+    "highlight-matching-tag.enabled": true
 }
